@@ -1,7 +1,0 @@
-,,,,,,,,,,
-,,,,,,,,,,
-,elements,n=1000,n=10000, n=100000,n=500000,,,,,
-,test 1 ,0 microsec.,1107 microsec.,162699 micros.,error,
-,test 2,0 microsec.,1995 microsec.,145179 micros.,error,
-,test 3,0 microsec.,1765 microsec.,114118 micros.,error,,,,,
-,average time ,0 microsec.,1622 microsec.,140665 micros.,error,,,,,
